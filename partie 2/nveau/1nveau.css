@@ -1,0 +1,171 @@
+body
+{
+    margin-top: 3%;
+}
+#centrale
+{
+    width: 90%;
+    height: 2%;
+    margin-left: 5%;
+    background-color: black;
+}
+nav h5{
+    margin-left: 60%;
+    margin-top: 0%;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none !important;
+    font-size: small;
+    color: rgb(224, 224, 224);
+}
+#English
+{
+    font-size: unset;
+}
+#one
+{
+    width: 90%;
+    height: 60vh;
+    position: relative;
+    object-fit: cover;
+    margin-left: 5%;
+    margin-top: -2.2%;
+}
+#one img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+#txt
+{
+    text-align: center;
+    color: whitesmoke;
+    margin-top: -23%;
+    position: relative;
+    font-size: 250%;
+}
+#icon
+{
+    position: absolute;
+    /* background:#ff00001c; */
+    width: 30%;
+    height: 10%;
+    margin-left: 63.5%;
+    margin-top: -19.2%;
+    /* text-align: center; */
+    display: flex;
+    /* justify-content: space-between; */
+}
+#icon span
+{
+    width: 10%;
+    height: 50%;
+    margin-top: 5%;
+    /* border: solid 2px red; */
+    /* background: white; */
+    border-radius: 60px;
+
+}
+i
+{
+    padding: 8px;
+}
+#face
+{
+    width: 10%;
+    height: 50%;
+    /* font-size: 40px; */
+    background-color: white;
+    border-radius: 60px;
+    margin-left: 38%;
+    /* margin-top: 5%; */
+}
+#insta
+{
+    width: 10%;
+    height: 50%;
+    background-color: white;
+    border-radius: 60px;
+    margin-left: 5px;
+    /* padding: 10px; */
+}
+#twitter
+{
+    width: 10%;
+    height: 50%;
+    background: white;
+    border-radius: 60px;
+    margin-left: 5px;
+}
+#loupe
+{
+    width: 10%;
+    height: 50%;
+    background: white;
+    border-radius: 60px;
+    margin-left: 20px;
+}
+#lien
+{
+    position: absolute;
+    width: 83%;
+    height: 16%;
+    background: white;
+    margin-left: 8%;
+    margin-top: 4.5%;
+    display: flex;
+}
+/* #lien p
+{
+    margin: 0px;
+    font-size: small;
+} */
+#lien span
+{
+    width: 108%;
+    height: 80%;
+    margin-top: 2%;
+    border: solid 2px red;
+    /* display: block; */
+    /* display: flex;
+    justify-content: space-evenly; */
+    /* background: white; */
+    border-radius: 50%;
+}
+#eat
+{
+    /* width: 10%;
+    height: 40%; */
+    /* font-size: 40px; */
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 30%;
+    margin-top: -50%;
+}
+#see
+{
+    margin-left: 100%;
+}
+#guide
+{
+    margin-left: 700%;
+}
+#events
+{
+    margin-left: 900%;
+}
+#meet
+{
+    margin-left: 1100%;
+}
+#choose
+{
+    width: 83.1%;
+    height: 6%;
+    position: absolute;
+    background-color: black;
+    margin-top: 14.4%;
+    margin-left: 7.95%;
+}

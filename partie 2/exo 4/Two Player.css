@@ -1,0 +1,148 @@
+body
+{
+    position: absolute;
+    /* color: #e19959e8; */
+    margin-top: 10%;
+    margin-left: 30%;
+    border: solid 20px #e19959b5;
+    /* padding: 30px, 20px, 30px, 20px; */
+    width: 29%;
+    height: 45%;
+    /* z-index: 2; */
+    box-shadow: 2px 6px 16px -2px black;
+    border-radius: 10px;
+}
+#bleu
+{
+    width: 50%;
+    height: 12%;
+    color: white;
+    /* z-index: 1; */
+    background-color: #6cacff;
+    margin-top: -26%;
+    margin-left: -6px;
+    text-align: center;
+}
+#cadre
+{
+    position: relative;
+    
+}
+#one
+{
+    /* background-color: #e19959b5; */
+    width: 15%;
+    height: 15%;
+    margin-top: -7%;
+    margin-left: 14%;
+}
+#two
+{
+    /* background-color: #e19959b5; */
+    width: 15%;
+    height: 15%;
+    margin-top: -23%;
+    margin-left: 44%;
+}
+#reset
+{
+    /* background-color: #e19959b5; */
+    width: 23%;
+    height: 4%;
+    margin-top: -21%;
+    margin-left: 76%;
+}
+#pa
+{
+    background-color: #e19959b5;
+    height: 6%;
+    margin-top: -5.5%;
+}
+#po
+{
+    background-color: #e19959b5;
+    height: 6%;
+    margin-top: 92.5%;
+}
+#pu
+{
+    background-color: #e19959b5;
+    /* height: 6%;
+    margin-top: 92.5%; */
+}
+#pi
+{
+    background-color: #25401c;
+    width: 32%;
+    height: 29%;
+    /* border: solid 1px white; */
+    /* border-right-color: white;
+    border-bottom-color: white; */
+    margin-top: -104.2%;
+}
+#pe
+{
+    background-color: #25401c;
+    width: 32%;
+    height: 29%;
+    margin-top: 31.6%;
+}
+#mo
+{
+    background-color: #25401c;
+    height: 29%;
+    width: 32%;
+    margin-top: -66.9%;
+}
+#ma
+{
+    background-color: #25401c;
+    width: 32%;
+    height: 29%;
+    margin-top: -66.8%;
+    margin-left: 68%;
+}
+#mu
+{
+    background-color: #25401c;
+    width: 34%;
+    height: 29%;
+    margin-left: 33%;
+    margin-top: -35.8%;
+}
+#me
+{
+    background-color: #25401c;
+    width: 32%;
+    height: 29%;
+    margin-left: 68%;
+    margin-top: -4.8%;
+}
+#mi
+{
+    background-color: #3e5735;
+    width: 34%;
+    height: 28.7%;
+    margin-top: -35.8%;
+    margin-left: 33%;
+}
+#do
+{
+    background-color: #25401c;
+    width: 34%;
+    height: 29%;
+    margin-left: 33%;
+    margin-top: -4.6%;
+}
+#da
+{
+    background-color: #25401c;
+    width: 32%;
+    height: 29%;
+    margin-left: 68%;
+    margin-top: -35.8%;
+}
+#re
+{
+    background-color: #25401c;
+}

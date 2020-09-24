@@ -1,0 +1,96 @@
+body
+{
+    position: relative;
+    background-size: cover;
+}
+#inter
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#bloc
+{
+    height: 200%;
+    width: 200%;
+    margin-left: -20%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+#texte
+{
+    height: 65%;
+    width: 70%;
+    margin-top: -1%;
+    margin-right: -5px;
+    color: white;
+    border-radius: 4px;
+    padding: 10px;
+    border: solid 2px #0552ca;
+    background-color: #7b00003d;
+}
+em
+{
+    color: bisque;
+}
+img
+{
+    height: 90%;
+    width: 60%;
+    margin-left: 35%;
+    margin-top: -2%;
+    border-radius: 60%;
+    border: solid 2px #0552ca;
+}
+#deux
+{
+    margin-left: 73%;
+    margin-top: 10%;
+    border-radius: 10px;
+    border: solid 2px #0552ca;
+    background-color: bisque;
+}
+#un
+{
+    position: absolute;
+    margin-top: 10%;
+    border-radius: 10px;
+    border: solid 2px #0552ca;
+    background-color: bisque;
+}
+#lien
+{
+    height: 5;
+    width: 100%;
+    margin-top: -20%;
+    margin-top: -15%;
+    position: absolute;
+    block-size: 5%;
+    padding-left: 2%;
+}
+#lien a{
+    margin-left: 0%.
+    position: absolute;
+    color: bisque;
+    display: flex;
+    justify-content: space-between;
+    /* text-decoration: none !important; */
+}
+#accueil
+{
+    margin-top: -1%;
+}
+#promotion
+{
+    position: absolute;
+    margin-left: 78%;
+    margin-top: -4%;
+}
+#inscription
+{
+    position: absolute;
+    margin-left: 34%;
+    margin-top: -4.5%;
+}

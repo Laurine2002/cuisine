@@ -1,0 +1,53 @@
+#body
+{
+    font-family:'trebuchet MS', Arial, Sans-serif;
+    margin-left:30px;
+    text-align: center;
+}
+#parent
+{
+    width: 100%;
+    height: 100%;
+    margin-left: 0%;
+    border: solid 2px red;
+}
+/* #one
+{
+    
+} */
+#bet
+{
+    margin-top:10px;
+    margin-left: 50px;
+    position:absolute;
+    margin-left:8%;
+    margin-top:-15px;
+    margin-bottom: 5px;
+    background-position:top;
+    border: 2px, 5px, 2px, 3px;
+    bottom: -5px;
+    padding-top: 2px;
+    padding-bottom: -5px;
+    padding-left: 10px;
+    font-size: 13px;
+    border: solid 2px blue;
+}
+/* #bet p
+{
+    margin-top:-15px;
+    margin-left: 50px;
+    padding-left: 50px;
+    border: solid 2px red;
+} */
+/* tr
+{
+    display: inline-block;
+    width:655px;
+    text-align:right;
+    list-style-type:none;
+} */
+#header
+{
+    display: flex;
+    justify-content: space-between;
+}

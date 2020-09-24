@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+}
+#texte
+{
+    width: 80%;
+    height: 120%;
+    background-color: red;
+    border-radius: 10px;
+}
+h1
+{
+    color: gray;
+}
+h1 img
+{
+    width: 280px;
+    height: 180px;
+    margin-top: -50px;
+}
+h4
+{
+    text-decoration-color: red;
+}
+br, ul
+{
+    font-size: 100%;
+}
+a
+{
+    font-size: 130%;
+}

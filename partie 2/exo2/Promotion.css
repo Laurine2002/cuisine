@@ -1,0 +1,200 @@
+body
+{
+    background-size: cover;
+}
+h2
+{
+    color: red;
+}
+em
+{
+    color: blueviolet;
+}
+#lien a
+{
+    /* border: solid 2px;
+    position: absolute;
+    height: 10%;
+    width: 100%;
+    margin-top: 0px; */
+    color: blueviolet;
+    /* font-size: 100%; */
+    text-decoration: none !important;
+}
+h3
+{
+    width: 200%;
+    /* border: solid 1px; */
+    margin-top: 1%;
+    margin-left: 0%;
+    display: inline;
+    padding-left: 80px;
+}
+#text
+{
+    margin-top: 10%;
+}
+#accueil
+{
+    margin-left: 2%;
+    margin-top: 10%;
+}
+#inscription
+{
+    margin-top: -50%;
+    /* margin-left: 20%; */
+}
+#auteur
+{
+    margin-left: 70%;
+    margin-top: -150%;
+}
+#deux
+{
+    width: 30%;
+    height: 80%;
+}
+#deux
+{
+    width: 30%;
+    height: 80%;
+    border: solid 2px red;
+    background-color: rgb(141, 243, 116);
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-top: 30px;
+    border-radius: 10%;
+}
+#deuximg
+{
+    width: 80%;
+    height: 100%;
+    border-radius: 60%;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+#cinq
+{
+    width: 32.8%;
+    height: 100%;
+    position: relative;
+    border: solid 1px red;
+    background-color: rgb(141, 243, 116);
+    margin-left: 65%;
+    margin-top: -62.5%;
+    padding-left: 2%;
+    border-radius: 10%;
+}
+#cinqimg
+{
+    width: 80%;
+    height: 100%;
+    border-radius: 60%;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+#sept
+{
+    width: 35%;
+    height: 120%;
+    border: solid 1px red;
+    background-color: rgb(141, 243, 116);
+    margin-top: 10%;
+    margin-left: 35%;
+    padding-left: 2%;
+    border-radius: 10%;
+}
+#septimg
+{
+    width: 50%;
+    height: 380px;
+    border-radius: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+#un
+{
+    margin-top: 2%;
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px red;
+    background-color: rgb(141, 243, 116);
+    margin-top: 10%;
+}
+#unimg
+{
+    width: 100%;
+    height:20%;
+    border-radius: 20%;
+    margin-top: 2%;
+}
+#trois
+{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px red;
+    background-color: rgb(141, 243, 116);
+    margin-top: 30%;
+}
+#troisimg
+{
+    width: 100%;
+    height: 80%;
+    border-radius: 20%;
+    margin-top: 10%;
+}
+#quatre
+{
+    width: 100%;
+    height: 50%;
+    border: solid 1px red;
+    background-color: rgb(141, 243, 116);
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+#quatreimg
+{
+    width: 130%;
+    height: 150%;
+    border-radius: 20%;
+    margin-top: 5%;
+}
+#six
+{
+    width: 100%;
+    height: 80%;
+    border: solid 1px red;
+    background-color: rgb(141, 243, 116);
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+#siximg
+{
+    width: 400%;
+    height: 100%;
+    border-radius: 20%;
+    margin-top: 2px;
+}
+#huit
+{
+    width: 100%;
+    height: 20%;
+    border: solid 1px red;
+    background-color: rgb(141, 243, 116);
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+#huitimg
+{
+    width: 50%;
+    height: 150%;
+    border-radius: 20%;
+    margin-top: 5%;
+}
